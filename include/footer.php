@@ -24,7 +24,7 @@
 </script>
 <script type="text/javascript"src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/js/jquery.dataTables.js" integrity="sha256-E+/kL+CHUqkr0DmPPZ7ps65UqND+U/ZGCke2LM/XCLs=" crossorigin="anonymous"></script>
-<script src="./assets/js/jquery-2.1.4.min.js" type="text/javascript"></script>
+
 <script src="./assets/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="./assets/js/jquery.form.js" type="text/javascript"></script>
 <script src="./assets/js/jquery-ui.min.js" type="text/javascript"></script>

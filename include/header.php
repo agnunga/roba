@@ -10,6 +10,7 @@
         <link href="./assets/css/jquery-ui.structure.min.css" rel="stylesheet" type="text/css"/>
         <link href="../assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="./assets/css/style.css" rel="stylesheet" type="text/css"/>
+        <script src="./assets/js/jquery-2.1.4.min.js" type="text/javascript"></script>
     </head>
     <body>
         <div class="container">
